@@ -52,9 +52,9 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 - "Explain this concept for an audience of `ROLE`. Use a relatable example to introduce the topic, then dive into details to ensure clarity and engagement for that audience: `PROMPT`"
 - "Summarize this by starting with an overview of the main concept, addressing potential challenges, and suggesting strategies to overcome them: `PROMPT`"
 
-### Creative Problem Solving and Refinement Technique
+### Creative Problem Solving
 
-- "Develop three creative solutions. For each, provide details, address challenges, and refine the idea before selecting the best one for the task: `PROMPT`."
+- "Develop three creative solutions. For each, provide details, address challenges, and refine the idea before selecting the best one for the task: `PROMPT`"
 - "`PROMPT`. Create a network of ideas, starting with the main concept, and map how related ideas or steps connect to form a comprehensive solution."
 
 ## Collection of Different Techniques for Future Reading
