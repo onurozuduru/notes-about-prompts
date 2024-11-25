@@ -10,7 +10,7 @@ Thankfully, there are many examples for prompting. However, I want to focus on z
 
 Long story short, I decided to collect few tips and prompt examples focused on my daily usage and easy access from every environment.
 
-## A General Reminder 
+## A General Reminder
 
 - No matter what LLMs will respond.
 - The response is reflection of the quality of the input.
@@ -45,8 +45,6 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 	- [1]: [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://openreview.net/forum?id=N6o0ZtPzTg)
 	- [2]: [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147)
 
-
-
 ### Tailored Explanation for Learning
 
 - "Explain this concept for an audience of `ROLE`. Use a relatable example to introduce the topic, then dive into details to ensure clarity and engagement for that audience: `PROMPT`"
@@ -57,11 +55,17 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 - "Develop three creative solutions. For each, provide details, address challenges, and refine the idea before selecting the best one for the task: `PROMPT`"
 - "`PROMPT`. Create a network of ideas, starting with the main concept, and map how related ideas or steps connect to form a comprehensive solution."
 
+### Interactive Questioning
+
+- "`PROMPT`. Before starting, ask me few yes/no questions to help better understand my situation and offer a tailored solution."
+- I want to learn about `PROMPT`. Before explaining, ask me 5 questions to understand my current knowledge and learning goals.
+
 ## Collection of Different Techniques for Future Reading
 
 I collected multiple interesting techniques in this file: [CollectionOfTechniques.md](CollectionOfTechniques.md)
 
 # References
+
 - https://www.promptingguide.ai/techniques
 - https://github.com/ai-boost/awesome-prompts
 - https://blog.tomparish.com/cpJXPMa0lSSkoU
