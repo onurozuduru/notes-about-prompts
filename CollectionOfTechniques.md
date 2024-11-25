@@ -1,5 +1,7 @@
 # Collection of Different Techniques for Future Reading
 
+[◀️Go Back to README.md](README.md)
+
 ## Chain of Thought (CoT) Prompting
 **Explanation:** CoT prompting enhances reasoning capabilities by guiding models to generate intermediate steps, breaking complex tasks into smaller sub-problems. This approach improves accuracy, interpretability, and generalization, particularly for arithmetic, commonsense, and symbolic reasoning. It relies on the emergent capabilities of larger-scale models (e.g., 100B+ parameters) to reason step-by-step effectively.  
 **Sources:**  
@@ -29,3 +31,6 @@
 - [Advances in Multimodal Reasoning](https://www.frontiersin.org/articles/multimodal-ai)  
 - [Unified Multimodal AI Models](https://arxiv.org/abs/2303.08920)  
 
+
+---
+[◀️Go Back to README.md](README.md)
