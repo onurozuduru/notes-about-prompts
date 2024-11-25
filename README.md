@@ -40,10 +40,11 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 
 - "Imagine a panel of experts discussing this task. Each expert offers unique insights, and you synthesize their recommendations into a final solution: `PROMPT`"
 - "Solve this task collaboratively by simulating a debate among personas. Critique each other’s ideas until a consensus is reached: `PROMPT`"
-- Prompt from [PanelGPT](https://github.com/holarissun/PanelGPT):
-	- [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://openreview.net/forum?id=N6o0ZtPzTg)
-	- [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147)
-> 3 experts are discussing the question with a _panel_ discussion, trying to solve it step by step, and make sure the result is correct _and avoid penalty_: `PROMPT`
+- Prompt from [PanelGPT](https://github.com/holarissun/PanelGPT) [1][2]:
+  > 3 experts are discussing the question with a panel discussion, trying to solve it step by step, and make sure the result is correct and avoid penalty: `PROMPT`
+	- [1]: [Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL](https://openreview.net/forum?id=N6o0ZtPzTg)
+	- [2]: [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147)
+
 
 
 ### Tailored Explanation for Learning
