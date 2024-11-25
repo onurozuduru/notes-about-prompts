@@ -58,7 +58,7 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 ### Interactive Questioning
 
 - "`PROMPT`. Before starting, ask me few yes/no questions to help better understand my situation and offer a tailored solution."
-- I want to learn about `PROMPT`. Before explaining, ask me 5 questions to understand my current knowledge and learning goals.
+- "I want to learn about `PROMPT`. Before explaining, ask me 5 questions to understand my current knowledge and learning goals."
 
 ## Collection of Different Techniques for Future Reading
 
