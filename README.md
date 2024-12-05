@@ -38,7 +38,7 @@ I collected some basic information in this file: [BasicConcepts.md](BasicConcept
 
 ### Simulated Expert Discussions
 
-- "Imagine a panel of experts discussing this task. Each expert offers unique insights, and you synthesize their recommendations into a final solution: `PROMPT`"
+- "Imagine a panel of experts discussing this task. Each expert offers unique insights, and you first write down their discussion then synthesize their recommendations into a final solution: `PROMPT`"
 - "Solve this task collaboratively by simulating a debate among personas. Critique each other’s ideas until a consensus is reached: `PROMPT`"
 - Prompt from [PanelGPT](https://github.com/holarissun/PanelGPT) [1][2]:
   > 3 experts are discussing the question with a panel discussion, trying to solve it step by step, and make sure the result is correct and avoid penalty: `PROMPT`
